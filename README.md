@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Josh 👋
 
-<!--
-**chaewon0908/chaewon0908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Full Stack Developer** passionate about building [what you build, e.g., scalable web apps and open-source tools].
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages:** JavaScript, Python, TypeScript
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Backend:** Node.js, PostgreSQL, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm working on
+- 🔭 I’m currently working on Academic Projects
+- 🌱 I’m currently learning Front-end.
+- 👯 I’m looking to collaborate on Capstone Project.
+
+### 📫 How to reach me
+- **Email:** almoitejoshmatthewg@gmail.com
