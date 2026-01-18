@@ -1,204 +1,188 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=JOSH&fontColor=58a6ff&fontSize=80&fontAlignY=35&desc=code%20alchemist%20%E2%9A%97%EF%B8%8F%20turning%20coffee%20into%20commits&descSize=18&descAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,50:4ecdc4,100:45b7d1&height=220&section=header&text=JOSH&fontColor=ffffff&fontSize=90&fontAlignY=35&desc=✨%20Developer%20|%20Dreamer%20|%20Creator%20✨&descSize=20&descAlignY=55&animation=twinkling"/>
 
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=%3E+while(alive)+%7B+code();+sleep();+repeat();+%7D;console.log(%22Welcome+to+my+digital+garden+%F0%9F%8C%B1%22);" alt="Typing SVG" /></a>
+<!-- ANIMATED INTRO -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=120&lines=%F0%9F%91%8B+Welcome+my+friend!;%F0%9F%92%BB+I+turn+ideas+into+reality;%E2%9C%A8+Let's+build+something+awesome!" alt="Typing SVG" /></a>
 
 <br/>
 
 <!-- ANIMATED BADGES -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS" alt="Profile Views"/>
-&nbsp;
-<a href="https://github.com/YOUR_USERNAME?tab=followers">
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=0d1117&labelColor=161b22&logo=github&label=Followers" alt="Followers"/>
-</a>
-&nbsp;
-<a href="https://github.com/YOUR_USERNAME?tab=repositories&sort=stargazers">
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=0d1117&labelColor=161b22&logo=github&label=Stars" alt="Stars"/>
-</a>
+<img src="https://img.shields.io/badge/Focus-Web%20Development-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010" />
+<img src="https://img.shields.io/badge/Lives-Saturn%20🪐-ff6b6b?style=for-the-badge&logo=ghost&logoColor=white&labelColor=101010" />
+<img src="https://img.shields.io/badge/Loves-Music%20🎵-4ecdc4?style=for-the-badge&logo=spotify&logoColor=white&labelColor=101010" />
+
+<br/><br/>
+
+<!-- COOL ANIMATED LINE -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
-<!-- ABOUT SECTION -->
-<img align="right" width="300" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="Coding GIF"/>
+<!-- ABOUT SECTION WITH ANIMATED GIF -->
+<img align="right" width="320" src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif" alt="Cat Computer GIF"/>
 
-## ⚡ `sudo apt-get install josh`
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
-```yaml
-name: Josh
-location: Planet Earth 🌍
-current_obsession: Building cool stuff
-philosophy: "Code is poetry written for machines"
-fun_fact: I debug with strategic print statements 🎯
+```js
+const josh = {
+  pronouns: "he" | "him",
+  location: "Saturn 🪐",
+  currentMood: "Vibing to music 🎧",
+  hobbies: ["Coding", "Sleeping", "Music"],
+  funFact: "I mass debug with console.log() 😅",
+  
+  dailyRoutine: () => {
+    while (alive) {
+      eat();
+      code();
+      sleep();
+      repeat();
+    }
+  }
+};
 ```
 
 <br/>
 
-### 🎮 Currently Playing
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Currently Vibing With
+
 ```diff
-+ Open Source Contributions
-+ Side Projects That Never End™
-- Sleep Schedule
-! Coffee Intake: MAXIMUM
+@@ What I'm Up To @@
++ 🔭 Learning new technologies every day
++ 🌱 Building cool side projects
++ 🎯 Goals: Contribute more to Open Source
+- 😴 Sleep forever
+
 ```
 
 <br clear="both"/>
 
----
+<!-- ANIMATED SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- SKILLS SECTION -->
 <div align="center">
 
-## 🛠️ Arsenal of Mass Creation
-
-<table>
-<tr>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-  <br>JavaScript
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-  <br>TypeScript
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-  <br>Python
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-  <br>React
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-  <br>Next.js
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-  <br>Node.js
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-  <br>Tailwind
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-  <br>Git
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-  <br>Docker
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-  <br>PostgreSQL
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-  <br>MongoDB
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-  <br>VS Code
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- STATS SECTION -->
-<div align="center">
-
-## 📊 My GitHub Multiverse
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="Streak Stats"/>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack
 
 <br/>
 
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&area_color=58a6ff&hide_border=true" alt="Activity Graph"/>
+<!-- ANIMATED SKILL ICONS -->
+<a href="#"><img src="https://skillicons.dev/icons?i=html,js,python,laravel,vscode&theme=dark&perline=5" /></a>
+
+<br/><br/>
+
+<!-- EXTRA COOL ANIMATED ICONS -->
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer" width="400"/>
 
 </div>
 
----
+<!-- ANIMATED SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- SNAKE ANIMATION -->
+<!-- FUN SECTION -->
 <div align="center">
 
-## 🐍 Watch My Contributions Get Eaten
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Fun Zone
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-</picture>
+<br/>
+
+<!-- ANIMATED QUOTE -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+<br/><br/>
+
+<!-- JOKE CARD -->
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&qColor=%2345b7d1&aColor=%234ecdc4" alt="Jokes Card" />
 
 </div>
 
----
+<!-- ANIMATED SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- SPOTIFY / QUOTE SECTION -->
+<!-- SPOTIFY / MUSIC SECTION -->
 <div align="center">
 
-## 💭 Random Dev Quote
+## <img src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" width="30"> Music is Life
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+<br/>
+
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=4ecdc4&bar_color_cover=true" alt="Spotify"/>
+
+<br/>
+
+*"Without music, life would be a mistake"* 🎵
 
 </div>
 
----
+<!-- ANIMATED SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- CONNECT SECTION -->
 <div align="center">
 
-## 🌐 Let's Connect & Build Something Amazing
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect!
 
+<br/>
+
+<a href="https://www.instagram.com/jshu.grciaa/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+&nbsp;
+<a href="https://www.facebook.com/joshmatthew.almoite.5">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+&nbsp;
+<a href="https://x.com/jshh_grciaa">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+&nbsp;
+<a href="mailto:jm.4lmoite@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+&nbsp;
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://twitter.com/YOUR_TWITTER">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-&nbsp;
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-&nbsp;
-<a href="https://your-portfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br/><br/>
 
-```javascript
-// Want to collaborate? Let's make magic happen! ✨
-const collaboration = {
-  openTo: ["Open Source", "Freelance", "Full-time"],
-  interests: ["Web Dev", "AI/ML", "Cloud Architecture"],
-  contact: () => console.log("DMs are open! 🚀")
-};
-```
+<!-- ANIMATED HANDSHAKE -->
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<b>Let's collaborate and build something amazing together!</b>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+
+<br/><br/>
+
+<!-- PROFILE TROPHY -->
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="Trophy" />
 
 </div>
 
----
+<!-- ANIMATED SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<!-- FOOTER -->
 <div align="center">
 
-<!-- ANIMATED FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer"/>
+<!-- ANIMATED WAVE FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:45b7d1,50:4ecdc4,100:ff6b6b&height=150&section=footer"/>
+
+<br/>
+
+<!-- ANIMATED HEART -->
+<img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="50">
+
+**Thanks for stopping by!**
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=4ecdc4&labelColor=101010&label=PROFILE+VISITORS" alt="Profile Views"/>
+
+<br/>
+
+*"Code is like humor. When you have to explain it, it's bad."* 😄
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-**⭐ From [Josh](https://github.com/YOUR_USERNAME) with 💙**
-
-*"The best error message is the one that never shows up"*
 
 </div>
