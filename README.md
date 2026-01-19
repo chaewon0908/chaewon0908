@@ -74,51 +74,9 @@ const josh = {
 
 <br/><br/>
 
-<!-- EXTRA COOL ANIMATED ICONS -->
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer" width="400"/>
 
-</div>
 
-<!-- ANIMATED SEPARATOR -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- FUN SECTION -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Fun Zone
-
-<br/>
-
-<!-- ANIMATED QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
-<br/><br/>
-
-<!-- JOKE CARD -->
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&qColor=%2345b7d1&aColor=%234ecdc4" alt="Jokes Card" />
-
-</div>
-
-<!-- ANIMATED SEPARATOR -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- SPOTIFY / MUSIC SECTION -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" width="30"> Music is Life
-
-<br/>
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=4ecdc4&bar_color_cover=true" alt="Spotify"/>
-
-<br/>
-
-*"Without music, life would be a mistake"* 🎵
-
-</div>
-
-<!-- ANIMATED SEPARATOR -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- CONNECT SECTION -->
 <div align="center">
@@ -156,21 +114,7 @@ const josh = {
 
 <br/><br/>
 
-<!-- PROFILE TROPHY -->
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="Trophy" />
 
-</div>
-
-<!-- ANIMATED SEPARATOR -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- FOOTER -->
-<div align="center">
-
-<!-- ANIMATED WAVE FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:45b7d1,50:4ecdc4,100:ff6b6b&height=150&section=footer"/>
-
-<br/>
 
 <!-- ANIMATED HEART -->
 <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="50">
